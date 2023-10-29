@@ -1,5 +1,3 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. candidate in the Department of Agri Econ at the University of Jon. As an applied microeconomist, my research focuses on international trade, with a particular emphasis on examining the impact of trade remedy and sunset review policies on U.S. trade. I work as a research assistant in Dr. Albert's research group and have presented papers at AAEA, CEA, ASHEcon, and NAREA. I am also an instructor of record at the University of Jon for the senior-level course ECON 4321.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm in the 2023-24 job market, and I'll be presenting my work at the 2023 IATRC. My job market paper examines the effects of the implementation of anti-dumping and countervailing duties, imposed between 1992 and 2018, on US agricultural imports.
